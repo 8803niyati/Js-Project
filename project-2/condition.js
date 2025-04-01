@@ -23,7 +23,7 @@
 // ans=total amount : 250 rupess
 
     
-2
+// 2
 // let season = parseInt(prompt("enter uour number:"));
 // switch(season){
 //     case 1:
