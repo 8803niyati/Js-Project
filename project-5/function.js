@@ -1,4 +1,5 @@
 // // 1
+
 // let myColor = ["Red", "Green", "White", "Black"];
 // console.log(myColor.join(','));
 // console.log(myColor.join('+'));
@@ -28,7 +29,7 @@
 // console.log("sum using foreach loop:",sum);
 
 // ans=sum using for loop: 15
-// sum using foreach loop: 5 sum using for loop: 
+// sum using foreach loop: 5  
 
 // // 3
 // let numbers = [1, 2, 3, 4, 5];

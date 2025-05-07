@@ -1,30 +1,30 @@
 //1
-/*
 
-class School {
-    studentDetails(name, email, contact) {
-      console.log("Student Details:");
-      console.log("Name:", name);
-      console.log("Email:", email);
-      console.log("Contact:", contact);
-    }
+
+// class School {
+//     studentDetails(name, email, contact) {
+//       console.log("Student Details:");
+//       console.log("Name:", name);
+//       console.log("Email:", email);
+//       console.log("Contact:", contact);
+//     }
   
-    facultyDetails(name, email, contact) {
-      console.log("Faculty Details:");
-      console.log("Name:", name);
-      console.log("Email:", email);
-      console.log("Contact:", contact);
-    }
-  }
+//     facultyDetails(name, email, contact) {
+//       console.log("Faculty Details:");
+//       console.log("Name:", name);
+//       console.log("Email:", email);
+//       console.log("Contact:", contact);
+//     }
+//   }
   
  
-  let obj = new School();
+//   let obj = new School();
   
-  obj.studentDetails("Peter", "peter@123.com", "780-456-2810");
+//   obj.studentDetails("Peter", "peter@123.com", "780-456-2810");
  
-  obj.facultyDetails("John", "john@xyz.com", "808-893-1254");
+//   obj.facultyDetails("John", "john@xyz.com", "808-893-1254");
 
-  */
+ 
 
   /* Output :
 
