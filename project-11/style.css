@@ -1,0 +1,58 @@
+
+
+ body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1584036561566-baf8f5f1b144');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  padding-top: 80px;
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.search-box {
+  margin: 20px;
+}
+
+input[type="date"] {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+  cursor: pointer;
+  background-color: #00bcd4;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+button:hover {
+  background-color: #0097a7;
+}
+
+#result {
+  margin-top: 30px;
+  font-size: 18px;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
